@@ -52,6 +52,108 @@
 - Approachable - easy to talk to
 - Trustworthy - worthy of trust
 ---
+## 100 Power Words
+01. accountability - being responsible for actions
+02. accuracy - correctness and precision
+03. adaptability - ability to adjust to change
+04. agency - capacity to act independently
+05. ambition - strong desire to achieve
+06. articulate - able to express clearly
+07. authenticity - quality of being genuine
+08. autonomy - self-governing independence
+09. balance - stable proportion among parts
+10. brevity - concise use of words
+11. candor - truthful and open speech
+12. clarity - quality of being clear
+13. compassion - sympathetic concern for suffering
+14. competence - ability to do something well
+15. composure - calm self-control
+16. confidence - belief in oneself
+17. courage - strength in the face of fear
+18. curiosity - strong desire to learn
+19. decisiveness - ability to decide quickly
+20. depth - seriousness and complexity
+21. dignity - calm self-respect
+22. diplomacy - skillful handling of relations
+23. discernment - ability to judge well
+24. discipline - self-control and orderly behavior
+25. drive - strong motivation to succeed
+26. efficiency - doing well with little waste
+27. eloquence - fluent persuasive expression
+28. empathy - ability to understand others' feelings
+29. ethics - moral principles
+30. excellence - outstanding quality
+31. execution - carrying out a plan
+32. fairness - impartial and just treatment
+33. fluency - smooth easy expression
+34. focus - directed attention
+35. foresight - ability to anticipate future needs
+36. forgiveness - letting go of resentment
+37. fortitude - courage in pain or adversity
+38. generosity - willingness to give freely
+39. gratitude - thankful appreciation
+40. grit - courage and resolve
+41. growth - development or improvement
+42. honesty - truthfulness and fairness
+43. honor - high respect and moral uprightness
+44. humility - modest view of oneself
+45. influence - power to affect others
+46. ingenuity - cleverness in solving problems
+47. initiative - ability to act independently
+48. innovation - new useful idea or method
+49. insight - deep understanding of something
+50. integrity - honesty and strong moral principles
+51. judgment - ability to make decisions
+52. justice - fair treatment under law
+53. kindness - quality of being considerate
+54. leadership - ability to guide others
+55. literacy - ability to read and write
+56. logic - sound reasoning
+57. loyalty - faithful support or allegiance
+58. maturity - fully developed good judgment
+59. mercy - compassionate forgiveness
+60. mindfulness - attentive awareness of the present
+61. moderation - avoidance of excess
+62. nuance - subtle difference in meaning
+63. objectivity - freedom from personal bias
+64. opportunity - favorable chance for progress
+65. organization - orderly arrangement or planning
+66. patience - calm endurance of delay
+67. perseverance - continued effort despite difficulty
+68. perspective - particular way of seeing
+69. poise - graceful self-assurance
+70. precision - exactness and accuracy
+71. principle - basic rule or belief
+72. priority - something more important first
+73. prudence - careful practical wisdom
+74. reason - logical thinking
+75. reliability - quality of being dependable
+76. resilience - ability to recover from difficulty
+77. resolve - firm determination
+78. resourcefulness - ability to solve problems cleverly
+79. respect - due regard for others
+80. responsibility - duty to deal correctly
+81. restraint - controlled behavior or emotion
+82. security - state of being safe
+83. self-respect - proper pride in oneself
+84. serenity - deep peacefulness
+85. service - helpful work for others
+86. sincerity - freedom from pretense
+87. stamina - physical or mental endurance
+88. strategy - plan for achieving goals
+89. strength - power and resilience
+90. tact - skill in dealing sensitively
+91. temperance - self-restraint and moderation
+92. tenacity - persistent determination
+93. transparency - openness and clarity
+94. trust - firm belief in reliability
+95. versatility - ability to adapt widely
+96. vigilance - careful watchfulness
+97. virtue - morally good quality
+98. vision - clear idea of future
+99. well-being - state of health and happiness
+100. wisdom - good judgment from knowledge
+---
 ## How to Speak Like a Pro!
 - Instead of "You're welcome," say "My pleasure."
 - Instead of "I'm angry," say "I'm not pleased with this."
